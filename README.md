@@ -1,10 +1,9 @@
 # CYCLISTIC BIKESHARE ANALYSIS
 
-# BUSINESS TASK STATEMENT
+## BUSINESS TASK STATEMENT
 **To ascertain how annual members and casual riders use bikes differently.** 
 
-# EXECUTIVE SUMMARY
-
+## EXECUTIVE SUMMARY
 Cyclistic is a bike-share program with more than 5,800 bicycles and 600 docking stations. 
 They also have annual members and casual riders. Annual members subscribe annually while casual riders just hire bikes at will. Cyclistics wants to reduce the cost of advertising by converting casual riders to annual member
 
