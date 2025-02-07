@@ -14,7 +14,7 @@ They also have annual members and casual riders. Annual members subscribe annual
 3.  Checking the most preferred rideable bike type mostly used by both parties
 
 ### DATA SOURCE
-[Divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+[Divvy-tripdata Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 
 ## ANALYSIS PROCEDURE
@@ -29,7 +29,7 @@ I carried out an exploratory data analysis on the data using SQL Server.
 4.  Selecting the relevant data needed for the analysis
 5.  Doing a few aggregations and using CTE to calculate other remaining value
 
-**Details are stated in the SQL Query:** **[SQL Server Query](bikeshare_combine_dataset.sql)**
+**Details are stated in the SQL Query:** **[SQL Server Query Link](bikeshare_combine_dataset.sql)**
 
 
 
@@ -38,6 +38,7 @@ I carried out an exploratory data analysis on the data using SQL Server.
 
 
 
+**I extended my analysis on Tableau
 ![image](tab.PNG)
 
-[Tabeau Visualization](https://public.tableau.com/views/2023CyclisticBikeshare/CyclisticBikeshareAfor2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tabeau Visualization Link](https://public.tableau.com/views/2023CyclisticBikeshare/CyclisticBikeshareAfor2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
