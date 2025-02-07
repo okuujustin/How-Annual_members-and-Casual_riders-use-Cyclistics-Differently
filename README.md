@@ -16,6 +16,11 @@ They also have annual members and casual riders. Annual members subscribe annual
 ### DATA SOURCE
 [Divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
+
+## ANALYSIS PROCEDURE
+The datasets used were 12 since divvy-tripdata recorded their activities every month.
+
+These datasets were converted from CSV files to Excel Workbook files.
 ### VISUALIZATION ON EXCEL
 ![image](bikeshare_excel.PNG)
 
