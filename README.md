@@ -2,6 +2,7 @@
 
 ## BUSINESS TASK STATEMENT
 **To ascertain how annual members and casual riders use bikes differently.** 
+**This a case study for my Google Data Analytics certificate Course**
 
 ## EXECUTIVE SUMMARY
 Cyclistic  is a bike-share program owned by Cyclistics Bikeshare Company with more than 5,800 bicycles and 600 docking stations. 
