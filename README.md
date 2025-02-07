@@ -1,8 +1,8 @@
 # HOW ANNUAL MEMBERS AND CASUAL RIDERS USE CYCLISTICS DIFFERENTLY
 
 
-
-![Dashboard on Excel](bikeshare_excel.PNG)
+###VISUALIZATION ON EXCEL
+![image](bikeshare_excel.PNG)
 
 ![image](tab.PNG)
 
