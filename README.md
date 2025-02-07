@@ -1,4 +1,4 @@
-# CYCLISTIC BIKESHARE ANALYSIS
+# CYCLISTIC BIKESHARE ANALYSIS FOR 2023
 
 ## BUSINESS TASK STATEMENT
 **To ascertain how annual members and casual riders use bikes differently.** 
@@ -20,6 +20,15 @@ They also have annual members and casual riders. Annual members subscribe annual
 ## ANALYSIS PROCEDURE
 The datasets used were 12 since divvy-tripdata recorded their activities every month.
 These datasets were converted from CSV files to Excel Workbook files.
+
+### EXPLORATORY DATA ANALYSIS (EDA)
+I carried out an exploratory data analysis on the data using SQL Server.
+1.  Uploading the datasets
+2.  Creating a table
+3.  Inserting and combining the whole data using INSERT INTO and UNION ALL respectively
+4.  Selecting the relevant data needed for the analysis
+5.  Doing few aggregations and using CTE to calculation other remaining value
+Details are stated in the SQL Query: [SQL Server Query](bikeshare_combine_dataset.sql)
 ### VISUALIZATION ON EXCEL
 ![image](bikeshare_excel.PNG)
 
