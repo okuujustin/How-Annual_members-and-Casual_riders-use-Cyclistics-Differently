@@ -1,4 +1,4 @@
-# CYCLISTIC BIKESHARE ANALYSIS FOR 2023
+![image](https://github.com/user-attachments/assets/8f1e0eb6-5274-43b2-a723-61cbf2cabd83)![image](https://github.com/user-attachments/assets/5786fe79-d8ae-4abd-af19-590c501effe8)# CYCLISTIC BIKESHARE ANALYSIS FOR 2023
 
 ## BUSINESS TASK STATEMENT
 **To ascertain how annual members and casual riders use bikes differently.** 
@@ -38,7 +38,9 @@ I carried out an exploratory data analysis on the data using SQL Server.
 
 
 
-**I extended my analysis on Tableau**
+
+
+### **I extended my analysis on Tableau**
 ![image](tab.PNG)
 
 **[Tabeau Visualization Link](https://public.tableau.com/views/2023CyclisticBikeshare/CyclisticBikeshareAfor2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
@@ -49,6 +51,17 @@ I carried out an exploratory data analysis on the data using SQL Server.
 3.  As casual riders use more bikes on weekends, they also spend more time riding especially on the weekends
 4.  We see that casual riders spend more time riding per month
 5.  Docked bikes are loved by casual riders since they used all the docked bikes as they were introduced.
+
+## MY RECOMMENDATIONS
+Converting casual riders to annual riders will boost the revenue of Cyclistics Bikeshare Company. 
+
+These are my recommendations:
+1.  Promos and discounts should be given to casual riders to enable them to become annual riders. This will help to boost business on the weekends
+2.  The introduction of the docked bike was beautiful. This can be used to attract more casual riders to become annual members
+3.  More bikes should be procured and more stations opened to serve more customers in Chicago
+
+
+
 
 
 
