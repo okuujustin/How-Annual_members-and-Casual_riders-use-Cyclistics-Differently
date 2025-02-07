@@ -27,10 +27,16 @@ I carried out an exploratory data analysis on the data using SQL Server.
 2.  Creating a table
 3.  Inserting and combining the whole data using INSERT INTO and UNION ALL respectively
 4.  Selecting the relevant data needed for the analysis
-5.  Doing few aggregations and using CTE to calculation other remaining value
-Details are stated in the SQL Query: [SQL Server Query](bikeshare_combine_dataset.sql)
+5.  Doing a few aggregations and using CTE to calculate other remaining value
+
+**Details are stated in the SQL Query:** **[SQL Server Query](bikeshare_combine_dataset.sql)**
+
+
+
 ### VISUALIZATION ON EXCEL
 ![image](bikeshare_excel.PNG)
+
+
 
 ![image](tab.PNG)
 
